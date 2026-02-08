@@ -2,7 +2,7 @@
 import { Asset, PortfolioStats } from './types';
 
 export const MOCK_STATS: PortfolioStats = {
-  totalBalance: 90725515.27,
+  totalBalance: 624297302.27,
   uninvested: 1250450.00,
   totalEarnings: 1245678.12,
   earnings24h: 45670.32,
